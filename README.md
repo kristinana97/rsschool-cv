@@ -1,1 +1,1 @@
-https://kristinana97/rsschool-cv/cv
+https://kristinana97/rsschool-cv/
