@@ -1,1 +1,0 @@
-https://kristinana97/rsschool-cv/cv
