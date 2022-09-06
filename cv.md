@@ -14,3 +14,9 @@ https://t.me/nkknnkknnkkn
 https://www.linkedin.com/in/narejko/
 **_Github_** 
 https://github.com/kristinana97
+
+---
+## About Myself
+The desire to find a profession where there is always something new and interesting to learn led me to web development. I like the freedom and unlimited implementation possibilities that programming gives to achieve results. My goal is to gain knowledge in the field of Front End development, to grow and improve in this direction.
+
+---
