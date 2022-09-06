@@ -20,3 +20,13 @@ https://github.com/kristinana97
 The desire to find a profession where there is always something new and interesting to learn led me to web development. I like the freedom and unlimited implementation possibilities that programming gives to achieve results. My goal is to gain knowledge in the field of Front End development, to grow and improve in this direction.
 
 ---
+## Skils
+**_HTML_**
+**_CSS_**
+**_JavaScript_**
+**_Git_**, **_GitHub_**
+**_Sass_**
+**_BEM_** (in proccess)
+**_Visual Studio Code_**
+**_Webpack_**
+---
